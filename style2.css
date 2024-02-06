@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+.BackImage {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(pupba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #800000;
+}
